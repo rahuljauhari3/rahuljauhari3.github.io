@@ -26,7 +26,7 @@ author:
   pronouns         : "he/him"  
   bio              : "AI Inference, ML @AMD"
   location         : "Bangalore, India"
-  employer         : ""
+  # employer         : ""
   uri              : # URL
   email            : "rahuljauhari3@gmail.com" 
 
